@@ -1,2 +1,2 @@
-How to denoise data using FFT?
+## How to denoise data using FFT?
 
